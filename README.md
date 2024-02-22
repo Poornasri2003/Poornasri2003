@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poornasri2003
 - 👀 I’m interested in IT field
-- 🌱 I’m currently learning web technology 
+- 🌱 I’m currently learning web technology and Data Science
 - 💞️ I’m looking to collaborate on github
 - 📫 To reach me poornasrip2003@gmail.com
 
